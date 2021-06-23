@@ -1,0 +1,26 @@
+{
+  "name": "react-webpack-starter",
+  "version": "1.0.0",
+  "description": "boilerplate for react apps",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development --open --hot",
+    "build": "webpack --mode production"
+  },
+  "author": "Bulbul Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.0.0-alpha-568dc3532",
+    "react-dom": "^18.0.0-alpha-568dc3532"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.3",
+    "@babel/preset-env": "^7.10.3",
+    "@babel/preset-react": "^7.10.1",
+    "babel-loader": "^8.1.0",
+    "html-webpack-plugin": "^4.3.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
