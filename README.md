@@ -1,4 +1,4 @@
-<h3>React Webpack Starter</h3>
+<h3>React Webpack Starter for react 18</h3>
 <hr>
 <p>A starter pack to build React applications using standards from ES2015, ES2016 & ES2017. It uses webpack, Babel and webpack-dev-server to compile and serve</p>
 
